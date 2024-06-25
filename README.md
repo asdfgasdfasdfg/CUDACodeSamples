@@ -16,3 +16,5 @@ Recommended:
 * Nsight Compute
 * CUDA capable GPU with compute capability 7.0 or later
 * CUDA Toolkit 11.0 or later
+
+# test
